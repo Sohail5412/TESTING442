@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "latest",
     "express-handlebars": "latest"
-    // ... any other dependencies you have can go here
+   
   }
 }
