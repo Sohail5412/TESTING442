@@ -1,0 +1,17 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio built with Express and Handlebars.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sohail Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "express-handlebars": "latest"
+    // ... any other dependencies you have can go here
+  }
+}
